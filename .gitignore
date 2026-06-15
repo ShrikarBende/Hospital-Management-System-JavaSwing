@@ -1,0 +1,29 @@
+# Compiled class files
+*.class
+
+# Build and output directories
+bin/
+target/
+
+# Local databases and project backups
+backup_*/
+backup*
+
+# Local configuration containing database credentials/passwords
+database.properties
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE and Editor settings
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+*.sublime-project
+*.sublime-workspace

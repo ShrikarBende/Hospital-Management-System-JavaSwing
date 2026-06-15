@@ -1,0 +1,6 @@
+# Database Configuration Template
+# Copy this file to 'database.properties' and fill in your local MySQL credentials.
+
+db.url=jdbc:mysql://localhost:3306/hospital_db?createDatabaseIfNotExist=true
+db.username=YOUR_MYSQL_USERNAME
+db.password=YOUR_MYSQL_PASSWORD
